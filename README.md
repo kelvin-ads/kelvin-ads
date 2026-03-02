@@ -25,7 +25,7 @@ API REST com autenticação JWT, controle de acesso por usuário e deploy em pro
 	•	Boas práticas de backend
 	•	Estruturas de dados
 
-📫 Conecte-se comigo no LinkedIn: ([coloque link](https://www.linkedin.com/in/gilson-kelvin-865ab8214/)
+📫 Conecte-se comigo no LinkedIn: (https://www.linkedin.com/in/gilson-kelvin-865ab8214/)
 
 <!--
 **kelvin-ads/kelvin-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
