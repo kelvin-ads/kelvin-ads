@@ -22,7 +22,7 @@ API REST com autenticação JWT, controle de acesso por usuário e deploy em pro
 
 📚 Atualmente estudando:
 	•	Arquitetura de software
-	•	Boas práticas de backend
+	•   Práticas de backend
 	•	Estruturas de dados
 
 📫 Conecte-se comigo no LinkedIn: (https://www.linkedin.com/in/gilson-kelvin-865ab8214/)
